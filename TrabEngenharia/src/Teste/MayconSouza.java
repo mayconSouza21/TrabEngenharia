@@ -10,6 +10,7 @@ public class MayconSouza {
 		int result = numero1 + numero2;
 		
 		System.out.println("Resultado da soma::" +result);
+		System.out.println("Texeira dar o cú");
 	}
 
 }
